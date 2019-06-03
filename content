@@ -4,30 +4,11 @@
     "data": [
         {
             "id": "1",
-            "image": "1",
-            "unity": "1"
-        },
-        {
-            "id": "2",
-            "image": "2",
-            "unity": "2"
-        },
-        {
-            "id": "3",
-            "image": "3",
-            "unity": "3"
-        },
-        {
-            "id": "4",
-            "image": "4",
-            "unity": "4"
-        },
-        {
-            "id": "5",
-            "image": "5",
-            "unity": "5"
+            "bgname": "Ako",
+            "bgsubname": "Jerson Carin",
+"bgimgurl": "https://i.ibb.co/jTyXvzB/FB-IMG-15594390029611988.jpg",
+"bgfilename": ""
         }
-        
         ]
 }
         
