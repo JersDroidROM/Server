@@ -4,10 +4,9 @@
     "data": [
         {
             "id": "1",
-            "bgname": "Ako",
+            "bgname":"Ako",
             "bgsubname": "Jerson Carin",
-            "bgimgurl": "https://demonuts.com/Demonuts/SampleImages/roger.jpg",
-            "bgfilename": ""
+            "bgimgurl": "https://demonuts.com/Demonuts/SampleImages/roger.jpg"
         }
         ]
 }
