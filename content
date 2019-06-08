@@ -1,7 +1,5 @@
 {
-    "status": "true",
-    "message": "Data fetched successfully!",
-    "data": [
+    "jerson": [
         {
             "id": "1",
             "bgname":"Ako",
